@@ -1,2 +1,4 @@
 # TJBot
 This project interprets the manual alphabet (sign language). The TJBot was trained to learn the manual alphabet using Watson’s vision recognition and translate the words spelled with Watson’s text to speech service so that people unfamiliar with the manual alphabet will now be able to understand it. The hope is that this can be used in schools all across the country that teach sign language as part of a curriculum in order to unite a larger group of individuals and allow them to communicate with each other thanks to the power of IBM technology.
+
+The project uses the TJVision recipe by Victor Dibia (https://github.com/victordibia/tjvision). In order to run the project, TJVision must be cloned to a local repository, and then the config.js file and TJVision.js must be replaced with the ones found in this github directory. 
